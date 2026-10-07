@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-photo.jpg" width="220" alt="Jatin Pandey" />
+<img src="./assets/profile-photo-cinematic-reveal.gif" width="220" alt="Jatin Pandey" />
 
 <h1>Jatin Pandey</h1>
 
