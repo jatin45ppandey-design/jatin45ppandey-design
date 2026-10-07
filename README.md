@@ -51,7 +51,7 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Ra
 
 <td width="42%" align="center" valign="middle">
 
-<img src="./assets/profile-photo.png" width="300" alt="Jatin Pandey">
+<img src="./assets/profile-photo.jpg" width="300" alt="Jatin Pandey">
 
 </td>
 </tr>
