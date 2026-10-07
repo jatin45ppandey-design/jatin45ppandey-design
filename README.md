@@ -10,6 +10,11 @@
 </p>
 
 <p>
+  Aspiring developer focused on backend systems, software engineering, and building useful real-world applications.<br>
+  I enjoy turning ideas into working software while improving my problem-solving and development skills.
+</p>
+
+<p>
   <a href="mailto:jatin45ppandey@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jatin-pandey-a1654237a"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
   <a href="https://demo-portfolio-rho-sepia.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=FF7A18" alt="Portfolio"></a>
@@ -19,39 +24,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=55E26A&center=true&vCenter=true&width=700&lines=building+backend+systems...;learning+by+shipping+projects...;turning+ideas+into+working+software..." alt="Typing animation">
 
 </div>
-
----
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### 👨‍💻 About
-
-Hi, I'm **Jatin Pandey**, an aspiring developer focused on backend development, Java, Spring Boot, and building practical software projects.
-
-I enjoy turning ideas into working applications while continuously improving my problem-solving and software development skills.
-
-I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Ramswaroop Memorial College of Engineering & Management**.
-
-**Current focus**
-
-- Backend development
-- Java & Spring Boot
-- Software engineering
-- Database-driven applications
-- AI-powered developer tools
-- Practical problem-solving projects
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="./assets/profile-photo.jpg" width="320" height="426" alt="Jatin Pandey">
-
-</td>
-</tr>
-</table>
 
 ---
 
