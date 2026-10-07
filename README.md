@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 ### 👨‍💻 About
 
@@ -43,9 +43,9 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Ra
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./assets/profile-photo.jpg" width="300" alt="Jatin Pandey">
+<img src="./assets/profile-photo.jpg" width="320" height="426" alt="Jatin Pandey">
 
 </td>
 </tr>
