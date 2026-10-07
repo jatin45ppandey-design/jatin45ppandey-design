@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=18&duration=2400&pause=900&color=AEB5C0&center=true&vCenter=true&width=720&lines=%24+whoami;%3E+Jatin+Pandey;%3E+Aspiring+Developer;%3E+Building+practical+software+projects" alt="Animated whoami terminal">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=18&duration=2400&pause=900&color=AEB5C0&center=true&vCenter=true&width=720&lines=I+am;%3E+Jatin+Pandey;%3E+Aspiring+Developer;%3E+Building+practical+software+projects" alt="Animated introduction">
 
 </div>
 
