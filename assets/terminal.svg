@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<rect width="900" height="430" rx="18" fill="#0d1117"/>
+<rect x="0" y="0" width="900" height="54" rx="18" fill="#161b22"/>
+<circle cx="28" cy="27" r="7" fill="#ff5f56"/>
+<circle cx="52" cy="27" r="7" fill="#ffbd2e"/>
+<circle cx="76" cy="27" r="7" fill="#27c93f"/>
+<text x="110" y="34" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">jatin@github:~</text>
+<text x="38" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23">$ whoami</text>
+<text x="38" y="150" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="27">Jatin Pandey</text>
+<text x="38" y="194" fill="#ff9f43" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">aspiring-developer</text>
+<text x="38" y="250" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23">$ focus --current</text>
+<text x="38" y="294" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">Java • Spring Boot • Backend</text>
+<text x="38" y="334" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">GenAI • RAG • Practical Projects</text>
+<text x="38" y="386" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">$ status: learning &amp; building_</text>
+</svg>
