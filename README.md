@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=18&duration=2400&pause=900&color=AEB5C0&center=true&vCenter=true&width=720&lines=I+am;%3E+Jatin+Pandey;%3E+Aspiring+Developer;%3E+Building+practical+software+projects" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=18&duration=2400&pause=900&color=AEB5C0&center=true&vCenter=true&width=720&lines=I+am;%3E+Jatin+Pandey;%3E+an+aspiring+developer;%3E+building+practical+software" alt="Animated introduction">
 
 </div>
 
@@ -63,13 +63,18 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Ra
 
 ## ⚡ Tech Stack
 
+**Backend**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+**Frontend**  
 <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+**Database & Tools**  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white">
@@ -130,7 +135,10 @@ Developer-focused application that connects with GitHub repositories, indexes co
 <br>
 
 <a href="https://github.com/jatin45ppandey-design/Code-Sense">
-<img src="https://img.shields.io/badge/View_Project-FF7A18?style=flat-square&logo=github&logoColor=white" alt="CodeSense repository">
+<img src="https://img.shields.io/badge/GitHub-FF7A18?style=flat-square&logo=github&logoColor=white" alt="CodeSense repository">
+</a>
+<a href="https://code-sense-phi-mocha.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-111827?style=flat-square&logo=vercel&logoColor=white" alt="CodeSense live demo">
 </a>
 
 </td>
@@ -182,23 +190,10 @@ Currently developing skills across software development, backend technologies, d
 
 ## 🧩 What I'm Exploring
 
-```text
-Java
- └── Spring Boot
-      ├── REST APIs
-      ├── Backend Architecture
-      └── Database Integration
-
-AI
- ├── GenAI
- ├── RAG
- └── AI-powered Developer Tools
-
-Development
- ├── Full Stack Applications
- ├── PostgreSQL
- └── Software Engineering
-```
+- Spring Boot & REST API architecture
+- PostgreSQL & backend systems
+- RAG & GenAI applications
+- Full-stack development
 
 ---
 
