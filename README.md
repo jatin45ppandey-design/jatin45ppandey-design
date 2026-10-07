@@ -28,7 +28,9 @@
 
 ### 👨‍💻 About
 
-Hi, I'm **Jatin Pandey**, an aspiring developer focused on building practical software projects and improving my problem-solving and development skills.
+Hi, I'm **Jatin Pandey**, an aspiring developer focused on backend development, Java, Spring Boot, and building practical software projects.
+
+I enjoy turning ideas into working applications while continuously improving my problem-solving and software development skills.
 
 I'm currently pursuing **B.Tech in Computer Science & Engineering** at **Shri Ramswaroop Memorial College of Engineering & Management**.
 
@@ -182,7 +184,7 @@ Currently developing skills across software development, backend technologies, d
 
 ---
 
-## 🧩 What I'm Exploring
+## 🧩 Currently Exploring
 
 - Spring Boot & REST API architecture
 - PostgreSQL & backend systems
